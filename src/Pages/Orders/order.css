@@ -1,0 +1,22 @@
+.order-list {
+  width: 100%;
+  padding: 20px;
+}
+
+.list-table {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.list-table-format {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.title {
+  background: #f4f4f4;
+  font-weight: bold;
+}
