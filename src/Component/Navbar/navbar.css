@@ -3,10 +3,11 @@
     justify-content: space-between;
     align-items: center;
     padding: 8px 4%;
+   background-color: rgba(46, 107, 46, 0.867);
 }
 .logo{
     width: max(10%,80px);
-    height: 80px;
+    height: 60px;
 }
 .profile{
     width: 50px;
